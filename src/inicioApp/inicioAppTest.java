@@ -8,8 +8,10 @@ class inicioAppTest {
 
 	@Test
 	void test() {
-		assertTrue(inicioApp.)
-		
+		String Cadena = "Hola que tal";
+		assertTrue(inicioApp.contadorVecesRepetida(Cadena)==Cadena.length());
 	}
+
+
 
 }
