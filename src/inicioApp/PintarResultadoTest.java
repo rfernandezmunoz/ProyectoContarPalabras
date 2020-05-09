@@ -1,8 +1,5 @@
 package inicioApp;
 
-import static inicioApp.inicioApp.arrayLetrasRepetidas;
-import static inicioApp.inicioApp.contadorVecesRepetida;
-import static org.junit.Assert.assertEquals;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
